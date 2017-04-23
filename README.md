@@ -25,7 +25,7 @@ Dados dos números enteros, se realiza y se muestra la sumatoria entre los mismos
 2. Se realiza la sumatoria entre "A" y "B".
 3. Se muestra el resultado de dicha sumatoria, identificada como "C".
 
-![alt tag](http://image.prntscr.com/image/32777dbad0b54e58918f277943b6ed2d.png)
+![alt tag](http://image.prntscr.com/image/d65e5d75e297456ea8090ba1bd902d75.png)
 
 
 Algoritmo:

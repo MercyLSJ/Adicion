@@ -31,10 +31,9 @@ Dados dos números enteros, se realiza y se muestra la sumatoria entre los mismos
 Algoritmo:
 ----------
 
-1. A,B ? Z
-2. Ingresar A
-3. Ingresar B
-4. Leer A
-5. Leer B
-6. Sumar A+B
-7. Mostrar C
+1. Ingresar A
+2. Ingresar B
+3. Leer A
+4. Leer B
+5. Sumar A+B
+6. Mostrar C

@@ -3,13 +3,13 @@ Mercedes Salcedo - K1051
 
 Trabajo #1 — Adición
 
-4.1. Problema:
---------------
+Problema:
+---------
 
 Escribir los pasos para mostrar la suma de dos números que ingresa el usuario.
 
-4.2. Entregables:
------------------
+Entregables:
+------------
 
 • Sufijo de carpeta: Adición
 • readme.md

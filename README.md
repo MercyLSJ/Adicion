@@ -11,9 +11,9 @@ Escribir los pasos para mostrar la suma de dos números que ingresa el usuario.
 Entregables:
 ------------
 
-• Sufijo de carpeta: Adición
-• readme.md
-• Implementación: Adición.cpp.
+- Sufijo de carpeta: Adición
+- readme.md
+- Implementación: Adición.cpp.
 
 
 Análisis:
